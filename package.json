@@ -1,0 +1,15 @@
+{
+  "name": "week12assignment",
+  "version": "1.0.0",
+  "description": "crudapp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Leonard Ormseth",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.1.3",
+    "jquery": "^3.6.0"
+  }
+}
